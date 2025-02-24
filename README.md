@@ -1,5 +1,7 @@
-
-
+# Ejercicio Práctico: Almacenamiento y Análisis de PWA en la Web del Hospital
+## Descripción 
+En este ejercicio práctico, se configuran y utilizar opciones de almacenamiento web dentro de la web del hospital convertida en PWA. Además, se ejecutarán pruebas con
+Lighthouse para validar el rendimiento y estado de la PWA.
 ### Visualización del proyecto
 Para visualizar este proyecto se necesita que previamente cuentes con la instalación de:
 - **Git**: [sitio de descarga] (https://git-scm.com/downloads)
