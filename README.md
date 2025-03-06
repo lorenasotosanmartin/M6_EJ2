@@ -6,7 +6,8 @@ En este proyecto se configuran y utilizan opciones de almacenamiento web dentro 
 Se implementa un servive worker básico, el cual permite que la aplicación funcione en modo offline, ademas, realice precaching de los archivos principales y se verifica que este se encuentra registrado y activado correctamente.
 ### Pruebas de Rendimiento con Lighthouse
 Mediantes las herramientas de desarrollador proporcionadas por Chrome se comprueba el funcionamiento de la aplicacion en modalidad offline, y se realiza un informe mediante la aplicacion Ligthouse, respecto a la version desktop de la aplicación donde los parametros evaluados arrogan en su mayoria una puntuacion superior a 80, tal como se aprecia en la siguiente imagen, donde se aprecian los resultados del informe: 
-![image](https://github.com/user-attachments/assets/33557a5a-0dde-44fa-9779-e5ee6aa8d1fd)
+![reporte](https://github.com/user-attachments/assets/713b1c76-2386-479c-af27-38dec9f89076)
+
 
 ### Visualización del proyecto
 Para visualizar este proyecto se necesita que previamente cuentes con la instalación de:
